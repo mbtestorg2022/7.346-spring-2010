@@ -39,19 +39,144 @@ The course is graded pass/fail. A passing grade will be awarded to students who 
 Calendar
 --------
 
-| LEC # | ASSIGNMENTS |
-| --- | --- |
-| 1 | Welcome and Overview |
-| 2 | Introduction to RNAi |
-| 3 | Hints of the Future: The Discovery of miRNAs |
-| 4 | Mechanisms: Dicing and Slicing |
-| 5 | How miRNAs Relate to siRNAs |
-| 6 | RNAi in the Lab I: shRNA, siRNA, and miRNA Mimics |
-| 7 | RNAi in the Lab II: Screening for Hits |
-| 8 | Company Visit: [Alnylam](http://www.alnylam.com/) |
-| 9 | RNAi Therapeutics I: Selecting Targets |
-| 10 | RNAi Therapeutics II: The Importance of Chemistry |
-| 11 | RNAi Therapeutics III: Efficacy in Animals |
-| 12 | RNAi Therapeutics IV: Safety First |
-| 13 | RNAi Therapeutics V: Delivery, Delivery, Delivery |
-| 14 | Oral Presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Welcome and Overview
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to RNAi
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Hints of the Future: The Discovery of miRNAs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanisms: Dicing and Slicing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+How miRNAs Relate to siRNAs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+RNAi in the Lab I: shRNA, siRNA, and miRNA Mimics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+RNAi in the Lab II: Screening for Hits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Company Visit: [Alnylam](http://www.alnylam.com/)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+RNAi Therapeutics I: Selecting Targets
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+RNAi Therapeutics II: The Importance of Chemistry
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+RNAi Therapeutics III: Efficacy in Animals
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+RNAi Therapeutics IV: Safety First
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+RNAi Therapeutics V: Delivery, Delivery, Delivery
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
